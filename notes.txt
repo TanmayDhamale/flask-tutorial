@@ -1,0 +1,6 @@
+4 main types of DB
+
+1. Relational/sql database 
+2. Nosql/document database
+3. Graph database
+4. Key-Value database
